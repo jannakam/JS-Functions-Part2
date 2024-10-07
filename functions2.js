@@ -1,3 +1,4 @@
+// TASK 1
 /**
  * isOdd(n):
  * - receives a number n
@@ -19,6 +20,7 @@ function isOdd(n) {
 console.log(isOdd(9));
 console.log(isOdd(12));
 
+// TASK 2
 /**
  * oddsSmallerThan(n):
  * - receives a number n
@@ -41,6 +43,7 @@ function oddsSmallerThan(n) {
 
 console.log(oddsSmallerThan(8));
 
+// TASK 3
 /**
  * squareOrDouble(n):
  * - receives a number n
